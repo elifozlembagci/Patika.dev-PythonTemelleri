@@ -4,10 +4,10 @@ Patika.dev "Python Temelleri" kursunu takip ederken aldığım notları ve denem
 - Bu eğitim süresince tamamladığım ve tamamlayacağım içerikler:
 
 - [x] Giriş
-- [ ] Stirngler
-- [ ] Input
-- [ ] Koda Yorum Ekleme
-- [ ] Koda Durumsallık Ekleme
+- [x] Stirngler
+- [x] Input
+- [x] Koda Yorum Ekleme
+- [x] Koda Durumsallık Ekleme
 - [ ] Koşullar
 - [ ] Döngüler
 - [ ] Non-Scalar Veri Tipleri
